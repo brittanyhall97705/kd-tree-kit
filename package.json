@@ -1,6 +1,6 @@
 {
   "name": "kd-tree-kit",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A dependency-free KD-tree for multidimensional points with nearest-neighbour and radius search.",
   "type": "module",
   "main": "src/index.js",
